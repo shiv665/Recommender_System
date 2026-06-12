@@ -57,5 +57,6 @@ Visit `http://localhost:8000/docs` to interact with the Swagger UI and test pred
 * **Surprise SVD**: 50 factors, 20 epochs. Excellent at capturing global user-movie biases.
 * **Implicit ALS**: 50 factors, 15 iterations. Accelerated via CUDA (`use_gpu=True`). Excels at handling highly sparse implicit-feedback matrices.
 
+
 ---
-*Built for Cult AI/ML 2026*
+*Built for Cult AI/ML 2026* 
