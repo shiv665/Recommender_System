@@ -3,7 +3,7 @@
 
 A production-ready, highly optimized recommendation engine built for the **Netflix Prize Dataset**. This project features a dual-algorithm approach (Singular Value Decomposition & Alternating Least Squares) accelerated by CUDA, alongside a fully deployable FastAPI prediction service.
 
-**Kaggle Notebook:** [https://www.kaggle.com/code/shivanshyadav3286/netflix-recommender-system-ii](https://www.kaggle.com/code/shivanshyadav3286/netflix-recommender-system-ii) (Link to the notebook where the code was originally written and run)    
+**Kaggle Notebook:** [https://www.kaggle.com/code/shivanshyadav3286/netflix-recommender-system-ii](https://www.kaggle.com/code/shivanshyadav3286/netflix-recommender-system-ii) (Link to the notebook where the code was originally written and run)
 
 ##  Key Features
 
