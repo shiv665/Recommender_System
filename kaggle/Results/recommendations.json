@@ -1,0 +1,3102 @@
+{
+  "305344": {
+    "user_id": 305344,
+    "n_rated": 7257,
+    "top_liked": [
+      {
+        "movie_id": 6101,
+        "title": "The Brooke Ellison Story",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6106,
+        "title": "The Jazz Channel: Chaka Khan",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6110,
+        "title": "It's a Mad, Mad, Mad, Mad World",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6116,
+        "title": "Foreigner: Live at Deer Creek",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6117,
+        "title": "Patton",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 7624,
+        "title": "Top Gun",
+        "predicted_score": 4.276
+      },
+      {
+        "rank": 2,
+        "movie_id": 4987,
+        "title": "Music of the Heart: Bonus Material",
+        "predicted_score": 4.139
+      },
+      {
+        "rank": 3,
+        "movie_id": 5104,
+        "title": "The Four Feathers",
+        "predicted_score": 4.122
+      },
+      {
+        "rank": 4,
+        "movie_id": 5652,
+        "title": "Twelve O'Clock High",
+        "predicted_score": 4.028
+      },
+      {
+        "rank": 5,
+        "movie_id": 165,
+        "title": "Richard Pryor: Live on the Sunset Strip",
+        "predicted_score": 4.019
+      },
+      {
+        "rank": 6,
+        "movie_id": 6037,
+        "title": "The Bourne Identity",
+        "predicted_score": 3.973
+      },
+      {
+        "rank": 7,
+        "movie_id": 6099,
+        "title": "Apocalypse Now",
+        "predicted_score": 3.934
+      },
+      {
+        "rank": 8,
+        "movie_id": 3153,
+        "title": "Doctor Zhivago",
+        "predicted_score": 3.924
+      },
+      {
+        "rank": 9,
+        "movie_id": 1969,
+        "title": "The Caine Mutiny",
+        "predicted_score": 3.881
+      },
+      {
+        "rank": 10,
+        "movie_id": 4302,
+        "title": "An Officer and a Gentleman",
+        "predicted_score": 3.864
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 8954,
+        "title": "The Rookie",
+        "predicted_score": 1.359
+      },
+      {
+        "rank": 2,
+        "movie_id": 5881,
+        "title": "Lagaan",
+        "predicted_score": 1.348
+      },
+      {
+        "rank": 3,
+        "movie_id": 8759,
+        "title": "Sholay",
+        "predicted_score": 1.332
+      },
+      {
+        "rank": 4,
+        "movie_id": 5099,
+        "title": "Devdas",
+        "predicted_score": 1.292
+      },
+      {
+        "rank": 5,
+        "movie_id": 5169,
+        "title": "My Cousin Vinny",
+        "predicted_score": 1.291
+      },
+      {
+        "rank": 6,
+        "movie_id": 4981,
+        "title": "Dracula",
+        "predicted_score": 1.258
+      },
+      {
+        "rank": 7,
+        "movie_id": 2893,
+        "title": "The Little Rascals",
+        "predicted_score": 1.236
+      },
+      {
+        "rank": 8,
+        "movie_id": 3509,
+        "title": "U2: Go Home: Live From Slane Castle, Ireland",
+        "predicted_score": 1.221
+      },
+      {
+        "rank": 9,
+        "movie_id": 8784,
+        "title": "The Fisher King",
+        "predicted_score": 1.217
+      },
+      {
+        "rank": 10,
+        "movie_id": 7208,
+        "title": "The Doors",
+        "predicted_score": 1.209
+      }
+    ]
+  },
+  "2439493": {
+    "user_id": 2439493,
+    "n_rated": 6894,
+    "top_liked": [
+      {
+        "movie_id": 4849,
+        "title": "Taps",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 8404,
+        "title": "Gulliver's Travels",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6720,
+        "title": "Black Hawk Down",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2849,
+        "title": "Frosty's Winter Wonderland / 'Twas the Night Before Christmas",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9099,
+        "title": "Storm Chasers",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 4123,
+        "title": "Patch Adams",
+        "predicted_score": 3.066
+      },
+      {
+        "rank": 2,
+        "movie_id": 7397,
+        "title": "Mrs. Doubtfire",
+        "predicted_score": 3.061
+      },
+      {
+        "rank": 3,
+        "movie_id": 4906,
+        "title": "Stuart Little",
+        "predicted_score": 2.978
+      },
+      {
+        "rank": 4,
+        "movie_id": 708,
+        "title": "The Perfect Storm",
+        "predicted_score": 2.884
+      },
+      {
+        "rank": 5,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 2.85
+      },
+      {
+        "rank": 6,
+        "movie_id": 7399,
+        "title": "Phenomenon",
+        "predicted_score": 2.849
+      },
+      {
+        "rank": 7,
+        "movie_id": 5056,
+        "title": "Angels in the Outfield",
+        "predicted_score": 2.81
+      },
+      {
+        "rank": 8,
+        "movie_id": 1110,
+        "title": "Secondhand Lions",
+        "predicted_score": 2.782
+      },
+      {
+        "rank": 9,
+        "movie_id": 8636,
+        "title": "Lara Croft: Tomb Raider: The Cradle of Life",
+        "predicted_score": 2.726
+      },
+      {
+        "rank": 10,
+        "movie_id": 551,
+        "title": "The Santa Clause",
+        "predicted_score": 2.721
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 9111,
+        "title": "Kiss the Girls",
+        "predicted_score": 1.243
+      },
+      {
+        "rank": 2,
+        "movie_id": 3730,
+        "title": "Elizabeth",
+        "predicted_score": 1.202
+      },
+      {
+        "rank": 3,
+        "movie_id": 3165,
+        "title": "Dirty Rotten Scoundrels",
+        "predicted_score": 1.177
+      },
+      {
+        "rank": 4,
+        "movie_id": 3611,
+        "title": "Man on the Moon",
+        "predicted_score": 1.172
+      },
+      {
+        "rank": 5,
+        "movie_id": 982,
+        "title": "Dil Chahta Hai",
+        "predicted_score": 1.139
+      },
+      {
+        "rank": 6,
+        "movie_id": 6534,
+        "title": "Alaska: Spirit of the Wild: IMAX",
+        "predicted_score": 1.119
+      },
+      {
+        "rank": 7,
+        "movie_id": 5099,
+        "title": "Devdas",
+        "predicted_score": 1.104
+      },
+      {
+        "rank": 8,
+        "movie_id": 360,
+        "title": "Lies",
+        "predicted_score": 1.099
+      },
+      {
+        "rank": 9,
+        "movie_id": 1901,
+        "title": "Cheech & Chong's Up in Smoke",
+        "predicted_score": 1.096
+      },
+      {
+        "rank": 10,
+        "movie_id": 239,
+        "title": "Winnie the Pooh: Springtime with Roo",
+        "predicted_score": 1.096
+      }
+    ]
+  },
+  "2118461": {
+    "user_id": 2118461,
+    "n_rated": 6130,
+    "top_liked": [
+      {
+        "movie_id": 9208,
+        "title": "Pale Rider",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1,
+        "title": "Dinosaur Planet",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9207,
+        "title": "The Brood",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9205,
+        "title": "Turner and Hooch",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 5,
+        "title": "The Rise and Fall of ECW",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 135,
+        "title": "GTO: Great Teacher Onizuka: Set 2",
+        "predicted_score": 5
+      },
+      {
+        "rank": 2,
+        "movie_id": 485,
+        "title": "The Avengers '67",
+        "predicted_score": 5
+      },
+      {
+        "rank": 3,
+        "movie_id": 1409,
+        "title": "The O.C.: Season 1",
+        "predicted_score": 5
+      },
+      {
+        "rank": 4,
+        "movie_id": 2117,
+        "title": "Case Closed: Season 5",
+        "predicted_score": 5
+      },
+      {
+        "rank": 5,
+        "movie_id": 2403,
+        "title": "Wolves at Our Door",
+        "predicted_score": 5
+      },
+      {
+        "rank": 6,
+        "movie_id": 2440,
+        "title": "Little House on the Prairie: Season 3",
+        "predicted_score": 5
+      },
+      {
+        "rank": 7,
+        "movie_id": 2598,
+        "title": "Baby Einstein: On the Go: Riding, Sailing and Soaring",
+        "predicted_score": 5
+      },
+      {
+        "rank": 8,
+        "movie_id": 2901,
+        "title": "Sarah Brightman: Live from Las Vegas",
+        "predicted_score": 5
+      },
+      {
+        "rank": 9,
+        "movie_id": 3033,
+        "title": "Ghost in the Shell: Stand Alone Complex: 2nd Gig",
+        "predicted_score": 5
+      },
+      {
+        "rank": 10,
+        "movie_id": 3067,
+        "title": "Teen Titans: Season 2",
+        "predicted_score": 5
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 8759,
+        "title": "Sholay",
+        "predicted_score": 1.301
+      },
+      {
+        "rank": 2,
+        "movie_id": 7470,
+        "title": "Arabian Nights",
+        "predicted_score": 1.281
+      },
+      {
+        "rank": 3,
+        "movie_id": 7483,
+        "title": "Real Genius",
+        "predicted_score": 1.252
+      },
+      {
+        "rank": 4,
+        "movie_id": 2893,
+        "title": "The Little Rascals",
+        "predicted_score": 1.245
+      },
+      {
+        "rank": 5,
+        "movie_id": 4778,
+        "title": "Reality Bites",
+        "predicted_score": 1.245
+      },
+      {
+        "rank": 6,
+        "movie_id": 1450,
+        "title": "Geronimo: An American Legend",
+        "predicted_score": 1.222
+      },
+      {
+        "rank": 7,
+        "movie_id": 5939,
+        "title": "The Mummy Returns",
+        "predicted_score": 1.218
+      },
+      {
+        "rank": 8,
+        "movie_id": 6701,
+        "title": "Haunted",
+        "predicted_score": 1.183
+      },
+      {
+        "rank": 9,
+        "movie_id": 1865,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "predicted_score": 1.182
+      },
+      {
+        "rank": 10,
+        "movie_id": 2130,
+        "title": "Citizen X",
+        "predicted_score": 1.163
+      }
+    ]
+  },
+  "1314869": {
+    "user_id": 1314869,
+    "n_rated": 4096,
+    "top_liked": [
+      {
+        "movie_id": 165,
+        "title": "Richard Pryor: Live on the Sunset Strip",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6673,
+        "title": "Godsend",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2661,
+        "title": "Wrath of the Ninja",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2651,
+        "title": "Dragon Ball Z: Super Android 13",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 8156,
+        "title": "Leatherface: The Texas Chainsaw Massacre III",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 263,
+        "title": "Dragon Ball: Tournament Saga",
+        "predicted_score": 4.686
+      },
+      {
+        "rank": 2,
+        "movie_id": 2126,
+        "title": "Please Teacher!",
+        "predicted_score": 4.608
+      },
+      {
+        "rank": 3,
+        "movie_id": 4238,
+        "title": "Inu-Yasha",
+        "predicted_score": 4.602
+      },
+      {
+        "rank": 4,
+        "movie_id": 5319,
+        "title": "Dragon Ball: Red Ribbon Army Saga",
+        "predicted_score": 4.459
+      },
+      {
+        "rank": 5,
+        "movie_id": 674,
+        "title": "Hellbound: Hellraiser II",
+        "predicted_score": 4.453
+      },
+      {
+        "rank": 6,
+        "movie_id": 1757,
+        "title": "The Lord of the Rings",
+        "predicted_score": 4.429
+      },
+      {
+        "rank": 7,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 4.427
+      },
+      {
+        "rank": 8,
+        "movie_id": 863,
+        "title": "King of New York: Special Edition (Full-screen)",
+        "predicted_score": 4.414
+      },
+      {
+        "rank": 9,
+        "movie_id": 435,
+        "title": "Love Can Seriously Damage Your Health",
+        "predicted_score": 4.365
+      },
+      {
+        "rank": 10,
+        "movie_id": 494,
+        "title": "Monty Python's The Meaning of Life: Special Edition",
+        "predicted_score": 4.359
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 7523,
+        "title": "The Red Violin",
+        "predicted_score": 1.272
+      },
+      {
+        "rank": 2,
+        "movie_id": 494,
+        "title": "Monty Python's The Meaning of Life: Special Edition",
+        "predicted_score": 1.25
+      },
+      {
+        "rank": 3,
+        "movie_id": 7735,
+        "title": "Rurouni Kenshin",
+        "predicted_score": 1.191
+      },
+      {
+        "rank": 4,
+        "movie_id": 3463,
+        "title": "10 Things I Hate About You",
+        "predicted_score": 1.188
+      },
+      {
+        "rank": 5,
+        "movie_id": 5522,
+        "title": "The Machinist",
+        "predicted_score": 1.185
+      },
+      {
+        "rank": 6,
+        "movie_id": 3668,
+        "title": "Farscape: Season 2",
+        "predicted_score": 1.185
+      },
+      {
+        "rank": 7,
+        "movie_id": 6449,
+        "title": "Space Cowboys",
+        "predicted_score": 1.176
+      },
+      {
+        "rank": 8,
+        "movie_id": 4227,
+        "title": "The Full Monty",
+        "predicted_score": 1.17
+      },
+      {
+        "rank": 9,
+        "movie_id": 3181,
+        "title": "Batman Beyond: Return of the Joker",
+        "predicted_score": 1.168
+      },
+      {
+        "rank": 10,
+        "movie_id": 6721,
+        "title": "Suspect Zero",
+        "predicted_score": 1.168
+      }
+    ]
+  },
+  "1461435": {
+    "user_id": 1461435,
+    "n_rated": 3975,
+    "top_liked": [
+      {
+        "movie_id": 2230,
+        "title": "Dirty War",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 889,
+        "title": "Reno 911: Season 2",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1878,
+        "title": "The Ghost and Mr. Chicken / The Reluctant Astronaut: Double Feature",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1901,
+        "title": "Cheech & Chong's Up in Smoke",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6017,
+        "title": "Z Channel: A Magnificent Obsession",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3425,
+        "title": "GoodFellas: Special Edition: Bonus Material",
+        "predicted_score": 3.239
+      },
+      {
+        "rank": 2,
+        "movie_id": 1433,
+        "title": "Casablanca: Bonus Material",
+        "predicted_score": 3.073
+      },
+      {
+        "rank": 3,
+        "movie_id": 13,
+        "title": "Lord of the Rings: The Return of the King: Extended Edition: Bonus Material",
+        "predicted_score": 3.043
+      },
+      {
+        "rank": 4,
+        "movie_id": 857,
+        "title": "The Three Stooges Go Around the World in a Daze",
+        "predicted_score": 2.967
+      },
+      {
+        "rank": 5,
+        "movie_id": 2921,
+        "title": "The Big Red One: Special Edition",
+        "predicted_score": 2.96
+      },
+      {
+        "rank": 6,
+        "movie_id": 3864,
+        "title": "Batman Begins",
+        "predicted_score": 2.93
+      },
+      {
+        "rank": 7,
+        "movie_id": 199,
+        "title": "The Deer Hunter",
+        "predicted_score": 2.917
+      },
+      {
+        "rank": 8,
+        "movie_id": 4115,
+        "title": "The Simpsons: Bart Wars",
+        "predicted_score": 2.913
+      },
+      {
+        "rank": 9,
+        "movie_id": 4987,
+        "title": "Music of the Heart: Bonus Material",
+        "predicted_score": 2.91
+      },
+      {
+        "rank": 10,
+        "movie_id": 3825,
+        "title": "The Sum of All Fears",
+        "predicted_score": 2.898
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3905,
+        "title": "The Others",
+        "predicted_score": 1.219
+      },
+      {
+        "rank": 2,
+        "movie_id": 5807,
+        "title": "Raising Helen",
+        "predicted_score": 1.182
+      },
+      {
+        "rank": 3,
+        "movie_id": 8915,
+        "title": "Terminator 2: Extreme Edition",
+        "predicted_score": 1.159
+      },
+      {
+        "rank": 4,
+        "movie_id": 3489,
+        "title": "Time Bandits",
+        "predicted_score": 1.122
+      },
+      {
+        "rank": 5,
+        "movie_id": 7406,
+        "title": "Thirteen Days",
+        "predicted_score": 1.091
+      },
+      {
+        "rank": 6,
+        "movie_id": 9132,
+        "title": "L.A. Story",
+        "predicted_score": 1.086
+      },
+      {
+        "rank": 7,
+        "movie_id": 8954,
+        "title": "The Rookie",
+        "predicted_score": 1.081
+      },
+      {
+        "rank": 8,
+        "movie_id": 8099,
+        "title": "Reign of Fire",
+        "predicted_score": 1.08
+      },
+      {
+        "rank": 9,
+        "movie_id": 8393,
+        "title": "Ladder 49",
+        "predicted_score": 1.061
+      },
+      {
+        "rank": 10,
+        "movie_id": 3282,
+        "title": "Sideways",
+        "predicted_score": 1.051
+      }
+    ]
+  },
+  "1114324": {
+    "user_id": 1114324,
+    "n_rated": 3416,
+    "top_liked": [
+      {
+        "movie_id": 5952,
+        "title": "Ocean's Eleven",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6971,
+        "title": "Ferris Bueller's Day Off",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 3966,
+        "title": "Friday Night Lights",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 5898,
+        "title": "Mystery Science Theater 3000: Hercules Against the Moon Men",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1625,
+        "title": "Aliens: Collector's Edition",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 4.623
+      },
+      {
+        "rank": 2,
+        "movie_id": 889,
+        "title": "Reno 911: Season 2",
+        "predicted_score": 4.388
+      },
+      {
+        "rank": 3,
+        "movie_id": 2901,
+        "title": "Sarah Brightman: Live from Las Vegas",
+        "predicted_score": 4.36
+      },
+      {
+        "rank": 4,
+        "movie_id": 4013,
+        "title": "Sherlock Holmes: The Eligible Bachelor",
+        "predicted_score": 4.335
+      },
+      {
+        "rank": 5,
+        "movie_id": 345,
+        "title": "Star Trek: Voyager: Season 5",
+        "predicted_score": 4.31
+      },
+      {
+        "rank": 6,
+        "movie_id": 764,
+        "title": "Scarface: 20th Anniversary Edition: Bonus Material",
+        "predicted_score": 4.267
+      },
+      {
+        "rank": 7,
+        "movie_id": 4547,
+        "title": "The Three Stooges Double Feature",
+        "predicted_score": 4.263
+      },
+      {
+        "rank": 8,
+        "movie_id": 304,
+        "title": "King of the Hill: Season 1",
+        "predicted_score": 4.258
+      },
+      {
+        "rank": 9,
+        "movie_id": 2547,
+        "title": "Green Legend Ran",
+        "predicted_score": 4.249
+      },
+      {
+        "rank": 10,
+        "movie_id": 2839,
+        "title": "WWE: The Great American Bash",
+        "predicted_score": 4.227
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 9188,
+        "title": "Cocktail",
+        "predicted_score": 1.45
+      },
+      {
+        "rank": 2,
+        "movie_id": 6408,
+        "title": "Good Morning, Vietnam",
+        "predicted_score": 1.363
+      },
+      {
+        "rank": 3,
+        "movie_id": 3355,
+        "title": "The Ice Storm",
+        "predicted_score": 1.301
+      },
+      {
+        "rank": 4,
+        "movie_id": 8226,
+        "title": "Buffy the Vampire Slayer: Season 5",
+        "predicted_score": 1.204
+      },
+      {
+        "rank": 5,
+        "movie_id": 9054,
+        "title": "The Flight of the Phoenix",
+        "predicted_score": 1.184
+      },
+      {
+        "rank": 6,
+        "movie_id": 2897,
+        "title": "Gremlins 2: The New Batch",
+        "predicted_score": 1.171
+      },
+      {
+        "rank": 7,
+        "movie_id": 8691,
+        "title": "Dawson's Creek: Season 1",
+        "predicted_score": 1.143
+      },
+      {
+        "rank": 8,
+        "movie_id": 4405,
+        "title": "In Living Color: Season 3",
+        "predicted_score": 1.14
+      },
+      {
+        "rank": 9,
+        "movie_id": 6347,
+        "title": "Big Momma's House",
+        "predicted_score": 1.126
+      },
+      {
+        "rank": 10,
+        "movie_id": 6887,
+        "title": "The Cosby Show: Season 1",
+        "predicted_score": 1.12
+      }
+    ]
+  },
+  "2056022": {
+    "user_id": 2056022,
+    "n_rated": 3400,
+    "top_liked": [
+      {
+        "movie_id": 1798,
+        "title": "Lethal Weapon",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 4972,
+        "title": "Paycheck",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 8387,
+        "title": "Minority Report",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 5112,
+        "title": "What Lies Beneath",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 290,
+        "title": "Harold and Kumar Go to White Castle",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 1220,
+        "title": "Man on Fire",
+        "predicted_score": 4.249
+      },
+      {
+        "rank": 2,
+        "movie_id": 2186,
+        "title": "Bad Boys",
+        "predicted_score": 3.966
+      },
+      {
+        "rank": 3,
+        "movie_id": 406,
+        "title": "Hostage",
+        "predicted_score": 3.922
+      },
+      {
+        "rank": 4,
+        "movie_id": 1905,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "predicted_score": 3.835
+      },
+      {
+        "rank": 5,
+        "movie_id": 13,
+        "title": "Lord of the Rings: The Return of the King: Extended Edition: Bonus Material",
+        "predicted_score": 3.763
+      },
+      {
+        "rank": 6,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 3.721
+      },
+      {
+        "rank": 7,
+        "movie_id": 631,
+        "title": "Unleashed",
+        "predicted_score": 3.567
+      },
+      {
+        "rank": 8,
+        "movie_id": 313,
+        "title": "Pay It Forward",
+        "predicted_score": 3.565
+      },
+      {
+        "rank": 9,
+        "movie_id": 4294,
+        "title": "Ghost Hunters: Season 1",
+        "predicted_score": 3.562
+      },
+      {
+        "rank": 10,
+        "movie_id": 2526,
+        "title": "Kuch Kuch Hota Hai",
+        "predicted_score": 3.547
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 108,
+        "title": "Spartan",
+        "predicted_score": 1.277
+      },
+      {
+        "rank": 2,
+        "movie_id": 8584,
+        "title": "Shattered Glass",
+        "predicted_score": 1.203
+      },
+      {
+        "rank": 3,
+        "movie_id": 7739,
+        "title": "The Astronaut's Wife",
+        "predicted_score": 1.203
+      },
+      {
+        "rank": 4,
+        "movie_id": 862,
+        "title": "Tuck Everlasting",
+        "predicted_score": 1.171
+      },
+      {
+        "rank": 5,
+        "movie_id": 2680,
+        "title": "Spy Kids 2: The Island of Lost Dreams",
+        "predicted_score": 1.147
+      },
+      {
+        "rank": 6,
+        "movie_id": 1066,
+        "title": "Superman: The Movie",
+        "predicted_score": 1.145
+      },
+      {
+        "rank": 7,
+        "movie_id": 7173,
+        "title": "Do the Right Thing",
+        "predicted_score": 1.144
+      },
+      {
+        "rank": 8,
+        "movie_id": 7391,
+        "title": "The Watcher",
+        "predicted_score": 1.134
+      },
+      {
+        "rank": 9,
+        "movie_id": 6027,
+        "title": "The Wild Thornberrys Movie",
+        "predicted_score": 1.126
+      },
+      {
+        "rank": 10,
+        "movie_id": 7511,
+        "title": "Blade",
+        "predicted_score": 1.113
+      }
+    ]
+  },
+  "752642": {
+    "user_id": 752642,
+    "n_rated": 3028,
+    "top_liked": [
+      {
+        "movie_id": 2465,
+        "title": "This Is Spinal Tap",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 641,
+        "title": "Charly",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 720,
+        "title": "Roger & Me",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 5258,
+        "title": "Ken Burns' Civil War",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2040,
+        "title": "Star Trek: The Next Generation: Season 5",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 2913,
+        "title": "Finding Neverland",
+        "predicted_score": 4.247
+      },
+      {
+        "rank": 2,
+        "movie_id": 2452,
+        "title": "Lord of the Rings: The Fellowship of the Ring",
+        "predicted_score": 4.145
+      },
+      {
+        "rank": 3,
+        "movie_id": 3112,
+        "title": "Liberty! The American Revolution",
+        "predicted_score": 4.056
+      },
+      {
+        "rank": 4,
+        "movie_id": 1180,
+        "title": "A Beautiful Mind",
+        "predicted_score": 3.951
+      },
+      {
+        "rank": 5,
+        "movie_id": 2581,
+        "title": "Surfing for Life",
+        "predicted_score": 3.902
+      },
+      {
+        "rank": 6,
+        "movie_id": 2114,
+        "title": "Firefly",
+        "predicted_score": 3.781
+      },
+      {
+        "rank": 7,
+        "movie_id": 13,
+        "title": "Lord of the Rings: The Return of the King: Extended Edition: Bonus Material",
+        "predicted_score": 3.768
+      },
+      {
+        "rank": 8,
+        "movie_id": 2613,
+        "title": "Northern Exposure: Season 1",
+        "predicted_score": 3.764
+      },
+      {
+        "rank": 9,
+        "movie_id": 3371,
+        "title": "Whale Rider",
+        "predicted_score": 3.763
+      },
+      {
+        "rank": 10,
+        "movie_id": 1208,
+        "title": "The Twilight Zone: Vol. 15",
+        "predicted_score": 3.737
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 6408,
+        "title": "Good Morning, Vietnam",
+        "predicted_score": 1.493
+      },
+      {
+        "rank": 2,
+        "movie_id": 1770,
+        "title": "Trainspotting",
+        "predicted_score": 1.247
+      },
+      {
+        "rank": 3,
+        "movie_id": 1673,
+        "title": "Defending Your Life",
+        "predicted_score": 1.2
+      },
+      {
+        "rank": 4,
+        "movie_id": 8467,
+        "title": "Eraser",
+        "predicted_score": 1.19
+      },
+      {
+        "rank": 5,
+        "movie_id": 7630,
+        "title": "Grand Canyon",
+        "predicted_score": 1.175
+      },
+      {
+        "rank": 6,
+        "movie_id": 1844,
+        "title": "Casualties of War",
+        "predicted_score": 1.169
+      },
+      {
+        "rank": 7,
+        "movie_id": 7355,
+        "title": "Altered States",
+        "predicted_score": 1.133
+      },
+      {
+        "rank": 8,
+        "movie_id": 8370,
+        "title": "The Hudsucker Proxy",
+        "predicted_score": 1.13
+      },
+      {
+        "rank": 9,
+        "movie_id": 8569,
+        "title": "Swimming with Sharks",
+        "predicted_score": 1.13
+      },
+      {
+        "rank": 10,
+        "movie_id": 1972,
+        "title": "Gentlemen Prefer Blondes",
+        "predicted_score": 1.127
+      }
+    ]
+  },
+  "716173": {
+    "user_id": 716173,
+    "n_rated": 2836,
+    "top_liked": [
+      {
+        "movie_id": 117,
+        "title": "Silk Stockings",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9208,
+        "title": "Pale Rider",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9207,
+        "title": "The Brood",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 18,
+        "title": "Immortal Beloved",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 19,
+        "title": "By Dawn's Early Light",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 394,
+        "title": "20,000 Leagues Under the Sea",
+        "predicted_score": 5
+      },
+      {
+        "rank": 2,
+        "movie_id": 432,
+        "title": "Les Miserables in Concert",
+        "predicted_score": 5
+      },
+      {
+        "rank": 3,
+        "movie_id": 709,
+        "title": "Africans in America: America's Journey Through Slavery",
+        "predicted_score": 5
+      },
+      {
+        "rank": 4,
+        "movie_id": 778,
+        "title": "A Touch of Frost: Seasons 7 & 8",
+        "predicted_score": 5
+      },
+      {
+        "rank": 5,
+        "movie_id": 791,
+        "title": "Don Henley: Live Inside Job",
+        "predicted_score": 5
+      },
+      {
+        "rank": 6,
+        "movie_id": 876,
+        "title": "Super Gals",
+        "predicted_score": 5
+      },
+      {
+        "rank": 7,
+        "movie_id": 895,
+        "title": "Dersu Uzala",
+        "predicted_score": 5
+      },
+      {
+        "rank": 8,
+        "movie_id": 1109,
+        "title": "My Fair Lady: Special Edition: Bonus Material",
+        "predicted_score": 5
+      },
+      {
+        "rank": 9,
+        "movie_id": 1123,
+        "title": "Dragon: The Bruce Lee Story",
+        "predicted_score": 5
+      },
+      {
+        "rank": 10,
+        "movie_id": 1277,
+        "title": "Red Dwarf: Series 3",
+        "predicted_score": 5
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3864,
+        "title": "Batman Begins",
+        "predicted_score": 1.355
+      },
+      {
+        "rank": 2,
+        "movie_id": 2195,
+        "title": "The Looney Tunes Golden Collection: Vol. 2",
+        "predicted_score": 1.343
+      },
+      {
+        "rank": 3,
+        "movie_id": 6122,
+        "title": "Laurel Canyon",
+        "predicted_score": 1.324
+      },
+      {
+        "rank": 4,
+        "movie_id": 8563,
+        "title": "Teenage Mutant Ninja Turtles: The Movie",
+        "predicted_score": 1.309
+      },
+      {
+        "rank": 5,
+        "movie_id": 3921,
+        "title": "101 Dalmatians II: Patch's London Adventure",
+        "predicted_score": 1.287
+      },
+      {
+        "rank": 6,
+        "movie_id": 4271,
+        "title": "Bound",
+        "predicted_score": 1.258
+      },
+      {
+        "rank": 7,
+        "movie_id": 989,
+        "title": "The Door in the Floor",
+        "predicted_score": 1.249
+      },
+      {
+        "rank": 8,
+        "movie_id": 5406,
+        "title": "Married... with Children: Season 1",
+        "predicted_score": 1.246
+      },
+      {
+        "rank": 9,
+        "movie_id": 8105,
+        "title": "The Jungle Book 2",
+        "predicted_score": 1.245
+      },
+      {
+        "rank": 10,
+        "movie_id": 4149,
+        "title": "Scooby-Doo 2: Monsters Unleashed",
+        "predicted_score": 1.235
+      }
+    ]
+  },
+  "1473980": {
+    "user_id": 1473980,
+    "n_rated": 2814,
+    "top_liked": [
+      {
+        "movie_id": 77,
+        "title": "Congo",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9201,
+        "title": "Sabrina: The Teenage Witch",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 58,
+        "title": "Dragonheart",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9188,
+        "title": "Cocktail",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9151,
+        "title": "Wishcraft",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 385,
+        "title": "The Santa Clause 2",
+        "predicted_score": 4.84
+      },
+      {
+        "rank": 2,
+        "movie_id": 2580,
+        "title": "Freaky Friday",
+        "predicted_score": 4.805
+      },
+      {
+        "rank": 3,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 4.78
+      },
+      {
+        "rank": 4,
+        "movie_id": 3743,
+        "title": "Boys and Girls",
+        "predicted_score": 4.703
+      },
+      {
+        "rank": 5,
+        "movie_id": 1482,
+        "title": "Beyond Borders",
+        "predicted_score": 4.692
+      },
+      {
+        "rank": 6,
+        "movie_id": 1728,
+        "title": "Married... with Children: The Most Outrageous Episodes: Vol. 2",
+        "predicted_score": 4.606
+      },
+      {
+        "rank": 7,
+        "movie_id": 3638,
+        "title": "Bad Boys II",
+        "predicted_score": 4.589
+      },
+      {
+        "rank": 8,
+        "movie_id": 1905,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "predicted_score": 4.584
+      },
+      {
+        "rank": 9,
+        "movie_id": 3646,
+        "title": "Lady Death",
+        "predicted_score": 4.569
+      },
+      {
+        "rank": 10,
+        "movie_id": 3359,
+        "title": "Sam Kinison: Outlaws of Comedy",
+        "predicted_score": 4.565
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 4805,
+        "title": "True Romance",
+        "predicted_score": 1.338
+      },
+      {
+        "rank": 2,
+        "movie_id": 2574,
+        "title": "Abandon",
+        "predicted_score": 1.231
+      },
+      {
+        "rank": 3,
+        "movie_id": 5105,
+        "title": "Just One of the Guys",
+        "predicted_score": 1.221
+      },
+      {
+        "rank": 4,
+        "movie_id": 4420,
+        "title": "Against the Ropes",
+        "predicted_score": 1.221
+      },
+      {
+        "rank": 5,
+        "movie_id": 6706,
+        "title": "Simply Irresistible",
+        "predicted_score": 1.213
+      },
+      {
+        "rank": 6,
+        "movie_id": 8954,
+        "title": "The Rookie",
+        "predicted_score": 1.205
+      },
+      {
+        "rank": 7,
+        "movie_id": 7511,
+        "title": "Blade",
+        "predicted_score": 1.192
+      },
+      {
+        "rank": 8,
+        "movie_id": 8243,
+        "title": "Eddie",
+        "predicted_score": 1.177
+      },
+      {
+        "rank": 9,
+        "movie_id": 2199,
+        "title": "Ricochet",
+        "predicted_score": 1.167
+      },
+      {
+        "rank": 10,
+        "movie_id": 6357,
+        "title": "Men at Work",
+        "predicted_score": 1.165
+      }
+    ]
+  },
+  "1001129": {
+    "user_id": 1001129,
+    "n_rated": 2725,
+    "top_liked": [
+      {
+        "movie_id": 6887,
+        "title": "The Cosby Show: Season 1",
+        "rating": 4.0
+      },
+      {
+        "movie_id": 692,
+        "title": "The Hand that Rocks the Cradle",
+        "rating": 4.0
+      },
+      {
+        "movie_id": 4233,
+        "title": "Little House on the Prairie: Season 9",
+        "rating": 4.0
+      },
+      {
+        "movie_id": 1017,
+        "title": "I Love Lucy: Season 5",
+        "rating": 4.0
+      },
+      {
+        "movie_id": 32,
+        "title": "ABC Primetime: Mel Gibson's The Passion of the Christ",
+        "rating": 4.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3106,
+        "title": "Ghost",
+        "predicted_score": 3.547
+      },
+      {
+        "rank": 2,
+        "movie_id": 3456,
+        "title": "Lost: Season 1",
+        "predicted_score": 3.483
+      },
+      {
+        "rank": 3,
+        "movie_id": 13,
+        "title": "Lord of the Rings: The Return of the King: Extended Edition: Bonus Material",
+        "predicted_score": 3.446
+      },
+      {
+        "rank": 4,
+        "movie_id": 2849,
+        "title": "Frosty's Winter Wonderland / 'Twas the Night Before Christmas",
+        "predicted_score": 3.408
+      },
+      {
+        "rank": 5,
+        "movie_id": 2117,
+        "title": "Case Closed: Season 5",
+        "predicted_score": 3.399
+      },
+      {
+        "rank": 6,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 3.382
+      },
+      {
+        "rank": 7,
+        "movie_id": 1962,
+        "title": "50 First Dates",
+        "predicted_score": 3.329
+      },
+      {
+        "rank": 8,
+        "movie_id": 3033,
+        "title": "Ghost in the Shell: Stand Alone Complex: 2nd Gig",
+        "predicted_score": 3.326
+      },
+      {
+        "rank": 9,
+        "movie_id": 2526,
+        "title": "Kuch Kuch Hota Hai",
+        "predicted_score": 3.32
+      },
+      {
+        "rank": 10,
+        "movie_id": 3067,
+        "title": "Teen Titans: Season 2",
+        "predicted_score": 3.318
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 5561,
+        "title": "Cool Hand Luke",
+        "predicted_score": 1.373
+      },
+      {
+        "rank": 2,
+        "movie_id": 1073,
+        "title": "Coach Carter",
+        "predicted_score": 1.365
+      },
+      {
+        "rank": 3,
+        "movie_id": 7577,
+        "title": "Horatio Hornblower: The New Adventures",
+        "predicted_score": 1.19
+      },
+      {
+        "rank": 4,
+        "movie_id": 5025,
+        "title": "Mask: Director's Cut",
+        "predicted_score": 1.153
+      },
+      {
+        "rank": 5,
+        "movie_id": 5223,
+        "title": "Girl, Interrupted",
+        "predicted_score": 1.134
+      },
+      {
+        "rank": 6,
+        "movie_id": 4054,
+        "title": "House of Cards Trilogy I: House of Cards",
+        "predicted_score": 1.133
+      },
+      {
+        "rank": 7,
+        "movie_id": 8851,
+        "title": "Rounders",
+        "predicted_score": 1.133
+      },
+      {
+        "rank": 8,
+        "movie_id": 275,
+        "title": "Evelyn",
+        "predicted_score": 1.113
+      },
+      {
+        "rank": 9,
+        "movie_id": 6874,
+        "title": "The Cooler",
+        "predicted_score": 1.087
+      },
+      {
+        "rank": 10,
+        "movie_id": 774,
+        "title": "Foyle's War: Set 2",
+        "predicted_score": 1.075
+      }
+    ]
+  },
+  "2625420": {
+    "user_id": 2625420,
+    "n_rated": 2608,
+    "top_liked": [
+      {
+        "movie_id": 1255,
+        "title": "Better Off Dead",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6037,
+        "title": "The Bourne Identity",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1476,
+        "title": "Six Feet Under: Season 4",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1543,
+        "title": "Nick of Time",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 8131,
+        "title": "The Conversation",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 2862,
+        "title": "The Silence of the Lambs",
+        "predicted_score": 4.59
+      },
+      {
+        "rank": 2,
+        "movie_id": 2922,
+        "title": "Heathers",
+        "predicted_score": 4.283
+      },
+      {
+        "rank": 3,
+        "movie_id": 107,
+        "title": "Magnolia: Bonus Material",
+        "predicted_score": 4.192
+      },
+      {
+        "rank": 4,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 4.025
+      },
+      {
+        "rank": 5,
+        "movie_id": 13,
+        "title": "Lord of the Rings: The Return of the King: Extended Edition: Bonus Material",
+        "predicted_score": 3.891
+      },
+      {
+        "rank": 6,
+        "movie_id": 330,
+        "title": "Wild Things",
+        "predicted_score": 3.803
+      },
+      {
+        "rank": 7,
+        "movie_id": 3425,
+        "title": "GoodFellas: Special Edition: Bonus Material",
+        "predicted_score": 3.802
+      },
+      {
+        "rank": 8,
+        "movie_id": 2648,
+        "title": "Trevor",
+        "predicted_score": 3.776
+      },
+      {
+        "rank": 9,
+        "movie_id": 1135,
+        "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+        "predicted_score": 3.773
+      },
+      {
+        "rank": 10,
+        "movie_id": 3290,
+        "title": "The Godfather, Part II",
+        "predicted_score": 3.693
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 2162,
+        "title": "CSI: Season 1",
+        "predicted_score": 1.596
+      },
+      {
+        "rank": 2,
+        "movie_id": 2922,
+        "title": "Heathers",
+        "predicted_score": 1.578
+      },
+      {
+        "rank": 3,
+        "movie_id": 7055,
+        "title": "Get Shorty",
+        "predicted_score": 1.506
+      },
+      {
+        "rank": 4,
+        "movie_id": 8468,
+        "title": "CSI: Season 3",
+        "predicted_score": 1.384
+      },
+      {
+        "rank": 5,
+        "movie_id": 5793,
+        "title": "Underworld",
+        "predicted_score": 1.358
+      },
+      {
+        "rank": 6,
+        "movie_id": 8447,
+        "title": "24: Season 1",
+        "predicted_score": 1.293
+      },
+      {
+        "rank": 7,
+        "movie_id": 3446,
+        "title": "Spirited Away",
+        "predicted_score": 1.236
+      },
+      {
+        "rank": 8,
+        "movie_id": 1618,
+        "title": "Nausicaa of the Valley of the Wind",
+        "predicted_score": 1.177
+      },
+      {
+        "rank": 9,
+        "movie_id": 431,
+        "title": "Millennium Actress",
+        "predicted_score": 1.175
+      },
+      {
+        "rank": 10,
+        "movie_id": 4216,
+        "title": "Jurassic Park III",
+        "predicted_score": 1.168
+      }
+    ]
+  },
+  "2457095": {
+    "user_id": 2457095,
+    "n_rated": 2519,
+    "top_liked": [
+      {
+        "movie_id": 1220,
+        "title": "Man on Fire",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 8651,
+        "title": "Analyze This",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6037,
+        "title": "The Bourne Identity",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 3624,
+        "title": "The Last Samurai",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 457,
+        "title": "Kill Bill: Vol. 2",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3817,
+        "title": "Stargate",
+        "predicted_score": 4.279
+      },
+      {
+        "rank": 2,
+        "movie_id": 3864,
+        "title": "Batman Begins",
+        "predicted_score": 4.194
+      },
+      {
+        "rank": 3,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 4.01
+      },
+      {
+        "rank": 4,
+        "movie_id": 764,
+        "title": "Scarface: 20th Anniversary Edition: Bonus Material",
+        "predicted_score": 3.987
+      },
+      {
+        "rank": 5,
+        "movie_id": 1390,
+        "title": "Ben Franklin",
+        "predicted_score": 3.974
+      },
+      {
+        "rank": 6,
+        "movie_id": 1493,
+        "title": "John Lee Hooker: Live in Montreal: Montreal Jazz Festival",
+        "predicted_score": 3.915
+      },
+      {
+        "rank": 7,
+        "movie_id": 1912,
+        "title": "The Comancheros",
+        "predicted_score": 3.906
+      },
+      {
+        "rank": 8,
+        "movie_id": 1357,
+        "title": "Stargate SG-1: Season 7",
+        "predicted_score": 3.86
+      },
+      {
+        "rank": 9,
+        "movie_id": 2452,
+        "title": "Lord of the Rings: The Fellowship of the Ring",
+        "predicted_score": 3.807
+      },
+      {
+        "rank": 10,
+        "movie_id": 3407,
+        "title": "Jasper Johns: Ideas in Paint",
+        "predicted_score": 3.807
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 1853,
+        "title": "Death Wish",
+        "predicted_score": 1.225
+      },
+      {
+        "rank": 2,
+        "movie_id": 3756,
+        "title": "About Schmidt",
+        "predicted_score": 1.222
+      },
+      {
+        "rank": 3,
+        "movie_id": 2660,
+        "title": "When Harry Met Sally",
+        "predicted_score": 1.172
+      },
+      {
+        "rank": 4,
+        "movie_id": 8603,
+        "title": "The Emperor's Club",
+        "predicted_score": 1.166
+      },
+      {
+        "rank": 5,
+        "movie_id": 6641,
+        "title": "Force 10 from Navarone",
+        "predicted_score": 1.162
+      },
+      {
+        "rank": 6,
+        "movie_id": 1692,
+        "title": "Lonesome Dove",
+        "predicted_score": 1.153
+      },
+      {
+        "rank": 7,
+        "movie_id": 5778,
+        "title": "The Godfather, Part III",
+        "predicted_score": 1.151
+      },
+      {
+        "rank": 8,
+        "movie_id": 6615,
+        "title": "Legends of the Fall",
+        "predicted_score": 1.137
+      },
+      {
+        "rank": 9,
+        "movie_id": 4210,
+        "title": "Below",
+        "predicted_score": 1.135
+      },
+      {
+        "rank": 10,
+        "movie_id": 7885,
+        "title": "Taken",
+        "predicted_score": 1.126
+      }
+    ]
+  },
+  "1806515": {
+    "user_id": 1806515,
+    "n_rated": 2462,
+    "top_liked": [
+      {
+        "movie_id": 7057,
+        "title": "Lord of the Rings: The Two Towers: Extended Edition",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 18,
+        "title": "Immortal Beloved",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 113,
+        "title": "Bruce Lee: A Warrior's Journey",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9174,
+        "title": "Rocky & Bullwinkle & Friends: Season 1",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 420,
+        "title": "Saturday Night Live: The Best of Dana Carvey",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3962,
+        "title": "Finding Nemo (Widescreen)",
+        "predicted_score": 4.8
+      },
+      {
+        "rank": 2,
+        "movie_id": 3425,
+        "title": "GoodFellas: Special Edition: Bonus Material",
+        "predicted_score": 4.52
+      },
+      {
+        "rank": 3,
+        "movie_id": 764,
+        "title": "Scarface: 20th Anniversary Edition: Bonus Material",
+        "predicted_score": 4.47
+      },
+      {
+        "rank": 4,
+        "movie_id": 28,
+        "title": "Lilo and Stitch",
+        "predicted_score": 4.379
+      },
+      {
+        "rank": 5,
+        "movie_id": 3046,
+        "title": "The Simpsons: Treehouse of Horror",
+        "predicted_score": 4.314
+      },
+      {
+        "rank": 6,
+        "movie_id": 760,
+        "title": "Pooh's Heffalump Movie",
+        "predicted_score": 4.249
+      },
+      {
+        "rank": 7,
+        "movie_id": 419,
+        "title": "George Lopez: Why You Crying?",
+        "predicted_score": 4.203
+      },
+      {
+        "rank": 8,
+        "movie_id": 1956,
+        "title": "Cirque du Soleil: Dralion",
+        "predicted_score": 4.17
+      },
+      {
+        "rank": 9,
+        "movie_id": 2463,
+        "title": "The Incredibles: Bonus Material",
+        "predicted_score": 4.155
+      },
+      {
+        "rank": 10,
+        "movie_id": 191,
+        "title": "X2: X-Men United",
+        "predicted_score": 4.112
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 4778,
+        "title": "Reality Bites",
+        "predicted_score": 1.294
+      },
+      {
+        "rank": 2,
+        "movie_id": 8171,
+        "title": "Boys on the Side",
+        "predicted_score": 1.289
+      },
+      {
+        "rank": 3,
+        "movie_id": 6050,
+        "title": "St. Elmo's Fire",
+        "predicted_score": 1.288
+      },
+      {
+        "rank": 4,
+        "movie_id": 8784,
+        "title": "The Fisher King",
+        "predicted_score": 1.162
+      },
+      {
+        "rank": 5,
+        "movie_id": 825,
+        "title": "Bill Cosby: Himself",
+        "predicted_score": 1.132
+      },
+      {
+        "rank": 6,
+        "movie_id": 8752,
+        "title": "Muppet Treasure Island",
+        "predicted_score": 1.131
+      },
+      {
+        "rank": 7,
+        "movie_id": 1102,
+        "title": "Training Day",
+        "predicted_score": 1.129
+      },
+      {
+        "rank": 8,
+        "movie_id": 760,
+        "title": "Pooh's Heffalump Movie",
+        "predicted_score": 1.085
+      },
+      {
+        "rank": 9,
+        "movie_id": 6219,
+        "title": "The Basketball Diaries",
+        "predicted_score": 1.079
+      },
+      {
+        "rank": 10,
+        "movie_id": 7643,
+        "title": "Empire of the Sun",
+        "predicted_score": 1.064
+      }
+    ]
+  },
+  "1299887": {
+    "user_id": 1299887,
+    "n_rated": 2411,
+    "top_liked": [
+      {
+        "movie_id": 8977,
+        "title": "The Ladykillers",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 76,
+        "title": "I Love Lucy: Season 2",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9207,
+        "title": "The Brood",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9023,
+        "title": "Oz: Season 1",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9014,
+        "title": "Stagecoach",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 33,
+        "title": "Aqua Teen Hunger Force: Vol. 1",
+        "predicted_score": 5
+      },
+      {
+        "rank": 2,
+        "movie_id": 223,
+        "title": "Chappelle's Show: Season 1",
+        "predicted_score": 5
+      },
+      {
+        "rank": 3,
+        "movie_id": 677,
+        "title": "In the Mood for Love",
+        "predicted_score": 5
+      },
+      {
+        "rank": 4,
+        "movie_id": 1098,
+        "title": "The Battle of Algiers",
+        "predicted_score": 5
+      },
+      {
+        "rank": 5,
+        "movie_id": 1857,
+        "title": "All in the Family: Season 4",
+        "predicted_score": 5
+      },
+      {
+        "rank": 6,
+        "movie_id": 1923,
+        "title": "Pee-Wee's Playhouse: Vol. 1",
+        "predicted_score": 5
+      },
+      {
+        "rank": 7,
+        "movie_id": 2525,
+        "title": "Sullivan's Travels",
+        "predicted_score": 5
+      },
+      {
+        "rank": 8,
+        "movie_id": 2648,
+        "title": "Trevor",
+        "predicted_score": 5
+      },
+      {
+        "rank": 9,
+        "movie_id": 2688,
+        "title": "The Memoirs of Sherlock Holmes",
+        "predicted_score": 5
+      },
+      {
+        "rank": 10,
+        "movie_id": 2736,
+        "title": "Bjork: Cambridge",
+        "predicted_score": 5
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 8467,
+        "title": "Eraser",
+        "predicted_score": 1.485
+      },
+      {
+        "rank": 2,
+        "movie_id": 7745,
+        "title": "Apollo 13",
+        "predicted_score": 1.484
+      },
+      {
+        "rank": 3,
+        "movie_id": 3469,
+        "title": "The Night of the Hunter",
+        "predicted_score": 1.415
+      },
+      {
+        "rank": 4,
+        "movie_id": 4472,
+        "title": "Love Actually",
+        "predicted_score": 1.4
+      },
+      {
+        "rank": 5,
+        "movie_id": 2989,
+        "title": "The Thing From Another World",
+        "predicted_score": 1.399
+      },
+      {
+        "rank": 6,
+        "movie_id": 1972,
+        "title": "Gentlemen Prefer Blondes",
+        "predicted_score": 1.39
+      },
+      {
+        "rank": 7,
+        "movie_id": 357,
+        "title": "House of Sand and Fog",
+        "predicted_score": 1.353
+      },
+      {
+        "rank": 8,
+        "movie_id": 4745,
+        "title": "Bringing Down the House",
+        "predicted_score": 1.307
+      },
+      {
+        "rank": 9,
+        "movie_id": 4577,
+        "title": "Steel Magnolias",
+        "predicted_score": 1.301
+      },
+      {
+        "rank": 10,
+        "movie_id": 3590,
+        "title": "Jason and the Argonauts",
+        "predicted_score": 1.279
+      }
+    ]
+  },
+  "1061195": {
+    "user_id": 1061195,
+    "n_rated": 2384,
+    "top_liked": [
+      {
+        "movie_id": 97,
+        "title": "Mostly Martha",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 9208,
+        "title": "Pale Rider",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 83,
+        "title": "Silkwood",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 16,
+        "title": "Screamers",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 18,
+        "title": "Immortal Beloved",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 46,
+        "title": "Rudolph the Red-Nosed Reindeer",
+        "predicted_score": 5
+      },
+      {
+        "rank": 2,
+        "movie_id": 333,
+        "title": "Mail Call: The Best of Season 2",
+        "predicted_score": 5
+      },
+      {
+        "rank": 3,
+        "movie_id": 537,
+        "title": "Here is Greenwood",
+        "predicted_score": 5
+      },
+      {
+        "rank": 4,
+        "movie_id": 952,
+        "title": "My Favorite Wife",
+        "predicted_score": 5
+      },
+      {
+        "rank": 5,
+        "movie_id": 957,
+        "title": "Lost in Space: Season 2: Vol. 1",
+        "predicted_score": 5
+      },
+      {
+        "rank": 6,
+        "movie_id": 974,
+        "title": "The Devil and Daniel Webster",
+        "predicted_score": 5
+      },
+      {
+        "rank": 7,
+        "movie_id": 1202,
+        "title": "National Lampoon's Vacation",
+        "predicted_score": 5
+      },
+      {
+        "rank": 8,
+        "movie_id": 1390,
+        "title": "Ben Franklin",
+        "predicted_score": 5
+      },
+      {
+        "rank": 9,
+        "movie_id": 1941,
+        "title": "The Life of Birds",
+        "predicted_score": 5
+      },
+      {
+        "rank": 10,
+        "movie_id": 2162,
+        "title": "CSI: Season 1",
+        "predicted_score": 5
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 2528,
+        "title": "Arachnophobia",
+        "predicted_score": 1.297
+      },
+      {
+        "rank": 2,
+        "movie_id": 1798,
+        "title": "Lethal Weapon",
+        "predicted_score": 1.279
+      },
+      {
+        "rank": 3,
+        "movie_id": 5614,
+        "title": "Best in Show",
+        "predicted_score": 1.248
+      },
+      {
+        "rank": 4,
+        "movie_id": 4685,
+        "title": "Lake Placid",
+        "predicted_score": 1.179
+      },
+      {
+        "rank": 5,
+        "movie_id": 6013,
+        "title": "An American Werewolf in Paris",
+        "predicted_score": 1.171
+      },
+      {
+        "rank": 6,
+        "movie_id": 2435,
+        "title": "Critters",
+        "predicted_score": 1.17
+      },
+      {
+        "rank": 7,
+        "movie_id": 2163,
+        "title": "Mystery Men",
+        "predicted_score": 1.162
+      },
+      {
+        "rank": 8,
+        "movie_id": 6120,
+        "title": "Mary Shelley's Frankenstein",
+        "predicted_score": 1.16
+      },
+      {
+        "rank": 9,
+        "movie_id": 5587,
+        "title": "Johnny Dangerously",
+        "predicted_score": 1.154
+      },
+      {
+        "rank": 10,
+        "movie_id": 7331,
+        "title": "Secret Window",
+        "predicted_score": 1.143
+      }
+    ]
+  },
+  "57633": {
+    "user_id": 57633,
+    "n_rated": 2332,
+    "top_liked": [
+      {
+        "movie_id": 6292,
+        "title": "Top Hat",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 4085,
+        "title": "Horror of Dracula",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 4040,
+        "title": "Tales of the City",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 6093,
+        "title": "House of Cards Trilogy III: The Final Cut",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 4010,
+        "title": "The Leopard (Original Italian Version)",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 241,
+        "title": "North by Northwest",
+        "predicted_score": 5
+      },
+      {
+        "rank": 2,
+        "movie_id": 1466,
+        "title": "Midnight Cowboy",
+        "predicted_score": 4.793
+      },
+      {
+        "rank": 3,
+        "movie_id": 1789,
+        "title": "Cracker: Series 2",
+        "predicted_score": 4.63
+      },
+      {
+        "rank": 4,
+        "movie_id": 1488,
+        "title": "King of the Hill: Season 4",
+        "predicted_score": 4.549
+      },
+      {
+        "rank": 5,
+        "movie_id": 161,
+        "title": "Ninotchka",
+        "predicted_score": 4.543
+      },
+      {
+        "rank": 6,
+        "movie_id": 1098,
+        "title": "The Battle of Algiers",
+        "predicted_score": 4.537
+      },
+      {
+        "rank": 7,
+        "movie_id": 3172,
+        "title": "SCTV Network 90: Vol. 2",
+        "predicted_score": 4.528
+      },
+      {
+        "rank": 8,
+        "movie_id": 2754,
+        "title": "The Life of Mammals",
+        "predicted_score": 4.521
+      },
+      {
+        "rank": 9,
+        "movie_id": 2890,
+        "title": "Sleeping Beauty: Special Edition",
+        "predicted_score": 4.504
+      },
+      {
+        "rank": 10,
+        "movie_id": 3679,
+        "title": "Commanding Heights: The Battle for the World Economy",
+        "predicted_score": 4.471
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 8877,
+        "title": "My Beautiful Laundrette",
+        "predicted_score": 1.323
+      },
+      {
+        "rank": 2,
+        "movie_id": 4591,
+        "title": "The Lost Weekend",
+        "predicted_score": 1.316
+      },
+      {
+        "rank": 3,
+        "movie_id": 4636,
+        "title": "Dressed to Kill",
+        "predicted_score": 1.283
+      },
+      {
+        "rank": 4,
+        "movie_id": 1307,
+        "title": "S.W.A.T.",
+        "predicted_score": 1.27
+      },
+      {
+        "rank": 5,
+        "movie_id": 4577,
+        "title": "Steel Magnolias",
+        "predicted_score": 1.27
+      },
+      {
+        "rank": 6,
+        "movie_id": 7430,
+        "title": "Six Feet Under: Season 1",
+        "predicted_score": 1.23
+      },
+      {
+        "rank": 7,
+        "movie_id": 1547,
+        "title": "The Women",
+        "predicted_score": 1.218
+      },
+      {
+        "rank": 8,
+        "movie_id": 1590,
+        "title": "Life as a House",
+        "predicted_score": 1.21
+      },
+      {
+        "rank": 9,
+        "movie_id": 5112,
+        "title": "What Lies Beneath",
+        "predicted_score": 1.19
+      },
+      {
+        "rank": 10,
+        "movie_id": 1959,
+        "title": "Splendor in the Grass",
+        "predicted_score": 1.188
+      }
+    ]
+  },
+  "1037245": {
+    "user_id": 1037245,
+    "n_rated": 2319,
+    "top_liked": [
+      {
+        "movie_id": 4049,
+        "title": "Torch Song Trilogy",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 8966,
+        "title": "Pieces of April",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 83,
+        "title": "Silkwood",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 4072,
+        "title": "Hair",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 299,
+        "title": "Bridget Jones's Diary",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3605,
+        "title": "The Wizard of Oz: Collector's Edition",
+        "predicted_score": 5
+      },
+      {
+        "rank": 2,
+        "movie_id": 1072,
+        "title": "As Time Goes By: Series 8",
+        "predicted_score": 4.745
+      },
+      {
+        "rank": 3,
+        "movie_id": 3338,
+        "title": "Very Best of Cher: The Video Hits Collection",
+        "predicted_score": 4.653
+      },
+      {
+        "rank": 4,
+        "movie_id": 2890,
+        "title": "Sleeping Beauty: Special Edition",
+        "predicted_score": 4.618
+      },
+      {
+        "rank": 5,
+        "movie_id": 2057,
+        "title": "Buffy the Vampire Slayer: Season 6",
+        "predicted_score": 4.617
+      },
+      {
+        "rank": 6,
+        "movie_id": 2209,
+        "title": "On Golden Pond",
+        "predicted_score": 4.589
+      },
+      {
+        "rank": 7,
+        "movie_id": 1587,
+        "title": "Harakiri",
+        "predicted_score": 4.575
+      },
+      {
+        "rank": 8,
+        "movie_id": 3952,
+        "title": "Orwell Rolls in His Grave",
+        "predicted_score": 4.565
+      },
+      {
+        "rank": 9,
+        "movie_id": 13,
+        "title": "Lord of the Rings: The Return of the King: Extended Edition: Bonus Material",
+        "predicted_score": 4.517
+      },
+      {
+        "rank": 10,
+        "movie_id": 1476,
+        "title": "Six Feet Under: Season 4",
+        "predicted_score": 4.495
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 6408,
+        "title": "Good Morning, Vietnam",
+        "predicted_score": 1.459
+      },
+      {
+        "rank": 2,
+        "movie_id": 8596,
+        "title": "Seven",
+        "predicted_score": 1.453
+      },
+      {
+        "rank": 3,
+        "movie_id": 4636,
+        "title": "Dressed to Kill",
+        "predicted_score": 1.294
+      },
+      {
+        "rank": 4,
+        "movie_id": 6502,
+        "title": "The Broken Hearts Club",
+        "predicted_score": 1.269
+      },
+      {
+        "rank": 5,
+        "movie_id": 6281,
+        "title": "The Adventures of Priscilla, Queen of the Desert",
+        "predicted_score": 1.246
+      },
+      {
+        "rank": 6,
+        "movie_id": 3817,
+        "title": "Stargate",
+        "predicted_score": 1.207
+      },
+      {
+        "rank": 7,
+        "movie_id": 4533,
+        "title": "L.I.E.",
+        "predicted_score": 1.169
+      },
+      {
+        "rank": 8,
+        "movie_id": 5515,
+        "title": "Dr. Strangelove",
+        "predicted_score": 1.165
+      },
+      {
+        "rank": 9,
+        "movie_id": 8181,
+        "title": "The Net",
+        "predicted_score": 1.157
+      },
+      {
+        "rank": 10,
+        "movie_id": 7483,
+        "title": "Real Genius",
+        "predicted_score": 1.156
+      }
+    ]
+  },
+  "1927580": {
+    "user_id": 1927580,
+    "n_rated": 2218,
+    "top_liked": [
+      {
+        "movie_id": 2688,
+        "title": "The Memoirs of Sherlock Holmes",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 1020,
+        "title": "The Simpsons: Season 1",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 974,
+        "title": "The Devil and Daniel Webster",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2862,
+        "title": "The Silence of the Lambs",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 5226,
+        "title": "Rushmore",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3247,
+        "title": "The Looney Tunes Golden Collection: Vol. 3",
+        "predicted_score": 4.98
+      },
+      {
+        "rank": 2,
+        "movie_id": 872,
+        "title": "Seven Samurai",
+        "predicted_score": 4.909
+      },
+      {
+        "rank": 3,
+        "movie_id": 3789,
+        "title": "Thomas Jefferson",
+        "predicted_score": 4.768
+      },
+      {
+        "rank": 4,
+        "movie_id": 3524,
+        "title": "Pulp Fiction: Bonus Material",
+        "predicted_score": 4.656
+      },
+      {
+        "rank": 5,
+        "movie_id": 1941,
+        "title": "The Life of Birds",
+        "predicted_score": 4.589
+      },
+      {
+        "rank": 6,
+        "movie_id": 3773,
+        "title": "Saboteur",
+        "predicted_score": 4.554
+      },
+      {
+        "rank": 7,
+        "movie_id": 3769,
+        "title": "Wonderfalls: The Complete Series",
+        "predicted_score": 4.535
+      },
+      {
+        "rank": 8,
+        "movie_id": 199,
+        "title": "The Deer Hunter",
+        "predicted_score": 4.524
+      },
+      {
+        "rank": 9,
+        "movie_id": 106,
+        "title": "Stevie Ray Vaughan and Double Trouble: Live at Montreux 1982 & 1985",
+        "predicted_score": 4.468
+      },
+      {
+        "rank": 10,
+        "movie_id": 3425,
+        "title": "GoodFellas: Special Edition: Bonus Material",
+        "predicted_score": 4.462
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 7393,
+        "title": "Prime Suspect 3",
+        "predicted_score": 1.305
+      },
+      {
+        "rank": 2,
+        "movie_id": 3740,
+        "title": "Dracula",
+        "predicted_score": 1.257
+      },
+      {
+        "rank": 3,
+        "movie_id": 1521,
+        "title": "The Trouble With Harry",
+        "predicted_score": 1.23
+      },
+      {
+        "rank": 4,
+        "movie_id": 7117,
+        "title": "The Lady Vanishes",
+        "predicted_score": 1.224
+      },
+      {
+        "rank": 5,
+        "movie_id": 4590,
+        "title": "The Forgotten",
+        "predicted_score": 1.215
+      },
+      {
+        "rank": 6,
+        "movie_id": 3730,
+        "title": "Elizabeth",
+        "predicted_score": 1.208
+      },
+      {
+        "rank": 7,
+        "movie_id": 7239,
+        "title": "The Lion in Winter",
+        "predicted_score": 1.201
+      },
+      {
+        "rank": 8,
+        "movie_id": 3469,
+        "title": "The Night of the Hunter",
+        "predicted_score": 1.19
+      },
+      {
+        "rank": 9,
+        "movie_id": 774,
+        "title": "Foyle's War: Set 2",
+        "predicted_score": 1.175
+      },
+      {
+        "rank": 10,
+        "movie_id": 1931,
+        "title": "Eye of the Needle",
+        "predicted_score": 1.171
+      }
+    ]
+  },
+  "2237185": {
+    "user_id": 2237185,
+    "n_rated": 2198,
+    "top_liked": [
+      {
+        "movie_id": 6251,
+        "title": "Cowboy Bebop: The Movie",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2043,
+        "title": "Shane",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 2037,
+        "title": "Fright Night",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 3247,
+        "title": "The Looney Tunes Golden Collection: Vol. 3",
+        "rating": 5.0
+      },
+      {
+        "movie_id": 3226,
+        "title": "Bringing Up Baby",
+        "rating": 5.0
+      }
+    ],
+    "svd_recs": [
+      {
+        "rank": 1,
+        "movie_id": 1587,
+        "title": "Harakiri",
+        "predicted_score": 4.833
+      },
+      {
+        "rank": 2,
+        "movie_id": 722,
+        "title": "The Wire: Season 1",
+        "predicted_score": 4.832
+      },
+      {
+        "rank": 3,
+        "movie_id": 241,
+        "title": "North by Northwest",
+        "predicted_score": 4.788
+      },
+      {
+        "rank": 4,
+        "movie_id": 2688,
+        "title": "The Memoirs of Sherlock Holmes",
+        "predicted_score": 4.749
+      },
+      {
+        "rank": 5,
+        "movie_id": 2102,
+        "title": "The Simpsons: Season 6",
+        "predicted_score": 4.693
+      },
+      {
+        "rank": 6,
+        "movie_id": 2019,
+        "title": "Samurai Champloo",
+        "predicted_score": 4.686
+      },
+      {
+        "rank": 7,
+        "movie_id": 2532,
+        "title": "Futurama: Vol. 1",
+        "predicted_score": 4.658
+      },
+      {
+        "rank": 8,
+        "movie_id": 2172,
+        "title": "The Simpsons: Season 3",
+        "predicted_score": 4.655
+      },
+      {
+        "rank": 9,
+        "movie_id": 2351,
+        "title": "Keen Eddie: The Complete Series",
+        "predicted_score": 4.632
+      },
+      {
+        "rank": 10,
+        "movie_id": 316,
+        "title": "Futurama: Monster Robot Maniac Fun Collection",
+        "predicted_score": 4.605
+      }
+    ],
+    "als_recs": [
+      {
+        "rank": 1,
+        "movie_id": 3427,
+        "title": "Men in Black II",
+        "predicted_score": 1.48
+      },
+      {
+        "rank": 2,
+        "movie_id": 4227,
+        "title": "The Full Monty",
+        "predicted_score": 1.451
+      },
+      {
+        "rank": 3,
+        "movie_id": 3469,
+        "title": "The Night of the Hunter",
+        "predicted_score": 1.414
+      },
+      {
+        "rank": 4,
+        "movie_id": 5087,
+        "title": "Mystery, Alaska",
+        "predicted_score": 1.365
+      },
+      {
+        "rank": 5,
+        "movie_id": 6661,
+        "title": "That Thing You Do!",
+        "predicted_score": 1.324
+      },
+      {
+        "rank": 6,
+        "movie_id": 4777,
+        "title": "Videodrome",
+        "predicted_score": 1.297
+      },
+      {
+        "rank": 7,
+        "movie_id": 5922,
+        "title": "Stand and Deliver",
+        "predicted_score": 1.282
+      },
+      {
+        "rank": 8,
+        "movie_id": 6274,
+        "title": "The Hunt for Red October",
+        "predicted_score": 1.28
+      },
+      {
+        "rank": 9,
+        "movie_id": 9049,
+        "title": "Boogie Nights",
+        "predicted_score": 1.256
+      },
+      {
+        "rank": 10,
+        "movie_id": 3379,
+        "title": "Strange Days",
+        "predicted_score": 1.253
+      }
+    ]
+  }
+}

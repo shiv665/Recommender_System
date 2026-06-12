@@ -1,0 +1,409 @@
+{
+  "successes": [
+    {
+      "user_id": 305344,
+      "movie": "Top Gun",
+      "predicted": 4.276,
+      "actual": 5.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "The Four Feathers",
+      "predicted": 4.122,
+      "actual": 4.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "The Bourne Identity",
+      "predicted": 3.973,
+      "actual": 5.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "Apocalypse Now",
+      "predicted": 3.934,
+      "actual": 4.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "The Caine Mutiny",
+      "predicted": 3.881,
+      "actual": 4.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "An Officer and a Gentleman",
+      "predicted": 3.864,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Patch Adams",
+      "predicted": 3.066,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Mrs. Doubtfire",
+      "predicted": 3.061,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "The Perfect Storm",
+      "predicted": 2.884,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Angels in the Outfield",
+      "predicted": 2.81,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "The Santa Clause",
+      "predicted": 2.721,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2118461,
+      "movie": "The O.C.: Season 1",
+      "predicted": 5,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2118461,
+      "movie": "Little House on the Prairie: Season 3",
+      "predicted": 5,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2118461,
+      "movie": "Baby Einstein: On the Go: Riding, Sailing and Soaring",
+      "predicted": 5,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2118461,
+      "movie": "Ghost in the Shell: Stand Alone Complex: 2nd Gig",
+      "predicted": 5,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Dragon Ball: Tournament Saga",
+      "predicted": 4.686,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Please Teacher!",
+      "predicted": 4.608,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Inu-Yasha",
+      "predicted": 4.602,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Dragon Ball: Red Ribbon Army Saga",
+      "predicted": 4.459,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Hellbound: Hellraiser II",
+      "predicted": 4.453,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "The Lord of the Rings",
+      "predicted": 4.429,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Monty Python's The Meaning of Life: Special Edition",
+      "predicted": 4.359,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1461435,
+      "movie": "The Three Stooges Go Around the World in a Daze",
+      "predicted": 2.967,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1461435,
+      "movie": "The Deer Hunter",
+      "predicted": 2.917,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1461435,
+      "movie": "The Sum of All Fears",
+      "predicted": 2.898,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1114324,
+      "movie": "Reno 911: Season 2",
+      "predicted": 4.388,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1114324,
+      "movie": "Star Trek: Voyager: Season 5",
+      "predicted": 4.31,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1114324,
+      "movie": "King of the Hill: Season 1",
+      "predicted": 4.258,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1114324,
+      "movie": "WWE: The Great American Bash",
+      "predicted": 4.227,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2056022,
+      "movie": "Man on Fire",
+      "predicted": 4.249,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2056022,
+      "movie": "Hostage",
+      "predicted": 3.922,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2056022,
+      "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "predicted": 3.835,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2056022,
+      "movie": "Unleashed",
+      "predicted": 3.567,
+      "actual": 4.0
+    },
+    {
+      "user_id": 752642,
+      "movie": "A Beautiful Mind",
+      "predicted": 3.951,
+      "actual": 5.0
+    },
+    {
+      "user_id": 752642,
+      "movie": "The Twilight Zone: Vol. 15",
+      "predicted": 3.737,
+      "actual": 4.0
+    },
+    {
+      "user_id": 716173,
+      "movie": "20,000 Leagues Under the Sea",
+      "predicted": 5,
+      "actual": 5.0
+    },
+    {
+      "user_id": 716173,
+      "movie": "Dragon: The Bruce Lee Story",
+      "predicted": 5,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1473980,
+      "movie": "Freaky Friday",
+      "predicted": 4.805,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1473980,
+      "movie": "Boys and Girls",
+      "predicted": 4.703,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1473980,
+      "movie": "Beyond Borders",
+      "predicted": 4.692,
+      "actual": 4.0
+    },
+    {
+      "user_id": 1473980,
+      "movie": "Married... with Children: The Most Outrageous Episodes: Vol. 2",
+      "predicted": 4.606,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1473980,
+      "movie": "Bad Boys II",
+      "predicted": 4.589,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1473980,
+      "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "predicted": 4.584,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2625420,
+      "movie": "The Silence of the Lambs",
+      "predicted": 4.59,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2625420,
+      "movie": "Heathers",
+      "predicted": 4.283,
+      "actual": 5.0
+    },
+    {
+      "user_id": 2625420,
+      "movie": "Wild Things",
+      "predicted": 3.803,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2457095,
+      "movie": "Stargate",
+      "predicted": 4.279,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2457095,
+      "movie": "The Comancheros",
+      "predicted": 3.906,
+      "actual": 4.0
+    },
+    {
+      "user_id": 2457095,
+      "movie": "Lord of the Rings: The Fellowship of the Ring",
+      "predicted": 3.807,
+      "actual": 5.0
+    },
+    {
+      "user_id": 1806515,
+      "movie": "Finding Nemo (Widescreen)",
+      "predicted": 4.8,
+      "actual": 5.0
+    }
+  ],
+  "failures": [
+    {
+      "user_id": 305344,
+      "movie": "Music of the Heart: Bonus Material",
+      "predicted": 4.139,
+      "actual": 1.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "Twelve O'Clock High",
+      "predicted": 4.028,
+      "actual": 3.0
+    },
+    {
+      "user_id": 305344,
+      "movie": "Richard Pryor: Live on the Sunset Strip",
+      "predicted": 4.019,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Stuart Little",
+      "predicted": 2.978,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Orwell Rolls in His Grave",
+      "predicted": 2.85,
+      "actual": 1.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Phenomenon",
+      "predicted": 2.849,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Secondhand Lions",
+      "predicted": 2.782,
+      "actual": 1.0
+    },
+    {
+      "user_id": 2439493,
+      "movie": "Lara Croft: Tomb Raider: The Cradle of Life",
+      "predicted": 2.726,
+      "actual": 1.0
+    },
+    {
+      "user_id": 1314869,
+      "movie": "Orwell Rolls in His Grave",
+      "predicted": 4.427,
+      "actual": 2.0
+    },
+    {
+      "user_id": 1461435,
+      "movie": "Batman Begins",
+      "predicted": 2.93,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2056022,
+      "movie": "Bad Boys",
+      "predicted": 3.966,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2056022,
+      "movie": "Pay It Forward",
+      "predicted": 3.565,
+      "actual": 2.0
+    },
+    {
+      "user_id": 752642,
+      "movie": "Lord of the Rings: The Fellowship of the Ring",
+      "predicted": 4.145,
+      "actual": 2.0
+    },
+    {
+      "user_id": 752642,
+      "movie": "Whale Rider",
+      "predicted": 3.763,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2625420,
+      "movie": "The Godfather, Part II",
+      "predicted": 3.693,
+      "actual": 3.0
+    },
+    {
+      "user_id": 2457095,
+      "movie": "Stargate SG-1: Season 7",
+      "predicted": 3.86,
+      "actual": 3.0
+    },
+    {
+      "user_id": 1299887,
+      "movie": "In the Mood for Love",
+      "predicted": 5,
+      "actual": 3.0
+    }
+  ],
+  "accuracy": 0.7976
+}

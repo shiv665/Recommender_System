@@ -1,0 +1,202 @@
+[
+  {
+    "user_id": 305344,
+    "recommended": "Top Gun",
+    "predicted_score": 4.276,
+    "because_you_liked": [
+      {
+        "title": "The Brooke Ellison Story",
+        "rating": 5.0
+      },
+      {
+        "title": "The Jazz Channel: Chaka Khan",
+        "rating": 5.0
+      },
+      {
+        "title": "It's a Mad, Mad, Mad, Mad World",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'Top Gun' because you enjoyed 'The Brooke Ellison Story' (5.0/5), 'The Jazz Channel: Chaka Khan' (5.0/5), 'It's a Mad, Mad, Mad, Mad World' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 2439493,
+    "recommended": "Patch Adams",
+    "predicted_score": 3.066,
+    "because_you_liked": [
+      {
+        "title": "Taps",
+        "rating": 5.0
+      },
+      {
+        "title": "Gulliver's Travels",
+        "rating": 5.0
+      },
+      {
+        "title": "Black Hawk Down",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'Patch Adams' because you enjoyed 'Taps' (5.0/5), 'Gulliver's Travels' (5.0/5), 'Black Hawk Down' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 2118461,
+    "recommended": "GTO: Great Teacher Onizuka: Set 2",
+    "predicted_score": 5,
+    "because_you_liked": [
+      {
+        "title": "Pale Rider",
+        "rating": 5.0
+      },
+      {
+        "title": "Dinosaur Planet",
+        "rating": 5.0
+      },
+      {
+        "title": "The Brood",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'GTO: Great Teacher Onizuka: Set 2' because you enjoyed 'Pale Rider' (5.0/5), 'Dinosaur Planet' (5.0/5), 'The Brood' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 1314869,
+    "recommended": "Dragon Ball: Tournament Saga",
+    "predicted_score": 4.686,
+    "because_you_liked": [
+      {
+        "title": "Richard Pryor: Live on the Sunset Strip",
+        "rating": 5.0
+      },
+      {
+        "title": "Godsend",
+        "rating": 5.0
+      },
+      {
+        "title": "Wrath of the Ninja",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'Dragon Ball: Tournament Saga' because you enjoyed 'Richard Pryor: Live on the Sunset Strip' (5.0/5), 'Godsend' (5.0/5), 'Wrath of the Ninja' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 1461435,
+    "recommended": "GoodFellas: Special Edition: Bonus Material",
+    "predicted_score": 3.239,
+    "because_you_liked": [
+      {
+        "title": "Dirty War",
+        "rating": 5.0
+      },
+      {
+        "title": "Reno 911: Season 2",
+        "rating": 5.0
+      },
+      {
+        "title": "The Ghost and Mr. Chicken / The Reluctant Astronaut: Double Feature",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'GoodFellas: Special Edition: Bonus Material' because you enjoyed 'Dirty War' (5.0/5), 'Reno 911: Season 2' (5.0/5), 'The Ghost and Mr. Chicken / The Reluctant Astronaut: Double Feature' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 1114324,
+    "recommended": "Orwell Rolls in His Grave",
+    "predicted_score": 4.623,
+    "because_you_liked": [
+      {
+        "title": "Ocean's Eleven",
+        "rating": 5.0
+      },
+      {
+        "title": "Ferris Bueller's Day Off",
+        "rating": 5.0
+      },
+      {
+        "title": "Friday Night Lights",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'Orwell Rolls in His Grave' because you enjoyed 'Ocean's Eleven' (5.0/5), 'Ferris Bueller's Day Off' (5.0/5), 'Friday Night Lights' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 2056022,
+    "recommended": "Man on Fire",
+    "predicted_score": 4.249,
+    "because_you_liked": [
+      {
+        "title": "Lethal Weapon",
+        "rating": 5.0
+      },
+      {
+        "title": "Paycheck",
+        "rating": 5.0
+      },
+      {
+        "title": "Minority Report",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'Man on Fire' because you enjoyed 'Lethal Weapon' (5.0/5), 'Paycheck' (5.0/5), 'Minority Report' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 752642,
+    "recommended": "Finding Neverland",
+    "predicted_score": 4.247,
+    "because_you_liked": [
+      {
+        "title": "This Is Spinal Tap",
+        "rating": 5.0
+      },
+      {
+        "title": "Charly",
+        "rating": 5.0
+      },
+      {
+        "title": "Roger & Me",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'Finding Neverland' because you enjoyed 'This Is Spinal Tap' (5.0/5), 'Charly' (5.0/5), 'Roger & Me' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 716173,
+    "recommended": "20,000 Leagues Under the Sea",
+    "predicted_score": 5,
+    "because_you_liked": [
+      {
+        "title": "Silk Stockings",
+        "rating": 5.0
+      },
+      {
+        "title": "Pale Rider",
+        "rating": 5.0
+      },
+      {
+        "title": "The Brood",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend '20,000 Leagues Under the Sea' because you enjoyed 'Silk Stockings' (5.0/5), 'Pale Rider' (5.0/5), 'The Brood' (5.0/5). Users with similar taste also highly rated this movie."
+  },
+  {
+    "user_id": 1473980,
+    "recommended": "The Santa Clause 2",
+    "predicted_score": 4.84,
+    "because_you_liked": [
+      {
+        "title": "Congo",
+        "rating": 5.0
+      },
+      {
+        "title": "Sabrina: The Teenage Witch",
+        "rating": 5.0
+      },
+      {
+        "title": "Dragonheart",
+        "rating": 5.0
+      }
+    ],
+    "explanation": "We recommend 'The Santa Clause 2' because you enjoyed 'Congo' (5.0/5), 'Sabrina: The Teenage Witch' (5.0/5), 'Dragonheart' (5.0/5). Users with similar taste also highly rated this movie."
+  }
+]

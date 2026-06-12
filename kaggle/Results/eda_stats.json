@@ -1,0 +1,458 @@
+{
+  "n_users": 175709,
+  "n_movies": 9210,
+  "n_ratings": 24818778,
+  "sparsity": 0.984663,
+  "mean_rating": "3.592",
+  "median_rating": 4.0,
+  "rating_distribution": {
+    "1": 1144746,
+    "2": 2537159,
+    "3": 7201212,
+    "4": 8351564,
+    "5": 5584097
+  },
+  "user_activity": {
+    "mean": 141.24932701227598,
+    "median": 82.0,
+    "min": 20,
+    "max": 9149,
+    "std": 169.02427626835052,
+    "percentiles": {
+      "10": 26.0,
+      "25": 40.0,
+      "50": 82.0,
+      "75": 177.0,
+      "90": 329.0,
+      "95": 457.0,
+      "99": 786.0
+    }
+  },
+  "temporal_trends": {
+    "1999-12": 678,
+    "2000-01": 19816,
+    "2000-02": 23415,
+    "2000-03": 21953,
+    "2000-04": 15006,
+    "2000-05": 13991,
+    "2000-06": 12578,
+    "2000-07": 15331,
+    "2000-08": 17694,
+    "2000-09": 22243,
+    "2000-10": 15985,
+    "2000-11": 18258,
+    "2000-12": 25655,
+    "2001-01": 37197,
+    "2001-02": 34174,
+    "2001-03": 30210,
+    "2001-04": 24888,
+    "2001-05": 30228,
+    "2001-06": 35523,
+    "2001-07": 37183,
+    "2001-08": 32872,
+    "2001-09": 30339,
+    "2001-10": 38999,
+    "2001-11": 43157,
+    "2001-12": 50983,
+    "2002-01": 76255,
+    "2002-02": 67120,
+    "2002-03": 88680,
+    "2002-04": 83457,
+    "2002-05": 79607,
+    "2002-06": 76051,
+    "2002-07": 86672,
+    "2002-08": 97773,
+    "2002-09": 102981,
+    "2002-10": 112959,
+    "2002-11": 103568,
+    "2002-12": 104522,
+    "2003-01": 133962,
+    "2003-02": 121793,
+    "2003-03": 140643,
+    "2003-04": 143165,
+    "2003-05": 182483,
+    "2003-06": 208096,
+    "2003-07": 214534,
+    "2003-08": 253961,
+    "2003-09": 258054,
+    "2003-10": 265994,
+    "2003-11": 285431,
+    "2003-12": 340739,
+    "2004-01": 515765,
+    "2004-02": 487245,
+    "2004-03": 558663,
+    "2004-04": 575283,
+    "2004-05": 604592,
+    "2004-06": 644850,
+    "2004-07": 620164,
+    "2004-08": 641275,
+    "2004-09": 667909,
+    "2004-10": 696873,
+    "2004-11": 793101,
+    "2004-12": 848189,
+    "2005-01": 1181482,
+    "2005-02": 1023618,
+    "2005-03": 1072220,
+    "2005-04": 1041451,
+    "2005-05": 1092122,
+    "2005-06": 1277505,
+    "2005-07": 1176263,
+    "2005-08": 1241254,
+    "2005-09": 1160984,
+    "2005-10": 1222579,
+    "2005-11": 852474,
+    "2005-12": 546061
+  },
+  "movie_popularity": [
+    {
+      "movie_id": 5317,
+      "title": "Miss Congeniality",
+      "year": 2000.0,
+      "count": 101485,
+      "avg_rating": 3.3499433994293213
+    },
+    {
+      "movie_id": 1905,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003.0,
+      "count": 93279,
+      "avg_rating": 4.156166076660156
+    },
+    {
+      "movie_id": 6287,
+      "title": "Pretty Woman",
+      "year": 1990.0,
+      "count": 85543,
+      "avg_rating": 3.874051570892334
+    },
+    {
+      "movie_id": 3860,
+      "title": "Bruce Almighty",
+      "year": 2003.0,
+      "count": 77171,
+      "avg_rating": 3.4320015907287598
+    },
+    {
+      "movie_id": 6037,
+      "title": "The Bourne Identity",
+      "year": 2002.0,
+      "count": 76487,
+      "avg_rating": 3.969184398651123
+    },
+    {
+      "movie_id": 571,
+      "title": "American Beauty",
+      "year": 1999.0,
+      "count": 75286,
+      "avg_rating": 3.9639639854431152
+    },
+    {
+      "movie_id": 6972,
+      "title": "Armageddon",
+      "year": 1998.0,
+      "count": 74910,
+      "avg_rating": 3.567694664001465
+    },
+    {
+      "movie_id": 4432,
+      "title": "The Italian Job",
+      "year": 2003.0,
+      "count": 74772,
+      "avg_rating": 3.7506420612335205
+    },
+    {
+      "movie_id": 2152,
+      "title": "What Women Want",
+      "year": 2000.0,
+      "count": 74457,
+      "avg_rating": 3.414534568786621
+    },
+    {
+      "movie_id": 3938,
+      "title": "Shrek 2",
+      "year": 2004.0,
+      "count": 73449,
+      "avg_rating": 4.142207622528076
+    },
+    {
+      "movie_id": 4306,
+      "title": "The Sixth Sense",
+      "year": 1999.0,
+      "count": 73413,
+      "avg_rating": 4.3247246742248535
+    },
+    {
+      "movie_id": 2452,
+      "title": "Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001.0,
+      "count": 73244,
+      "avg_rating": 4.438820838928223
+    },
+    {
+      "movie_id": 7624,
+      "title": "Top Gun",
+      "year": 1986.0,
+      "count": 71672,
+      "avg_rating": 3.8218133449554443
+    },
+    {
+      "movie_id": 5496,
+      "title": "I, Robot",
+      "year": 2004.0,
+      "count": 71547,
+      "avg_rating": 3.7079122066497803
+    },
+    {
+      "movie_id": 6206,
+      "title": "My Big Fat Greek Wedding",
+      "year": 2002.0,
+      "count": 69577,
+      "avg_rating": 3.744542121887207
+    },
+    {
+      "movie_id": 1962,
+      "title": "50 First Dates",
+      "year": 2004.0,
+      "count": 69453,
+      "avg_rating": 3.7472968101501465
+    },
+    {
+      "movie_id": 8782,
+      "title": "The Royal Tenenbaums",
+      "year": 2001.0,
+      "count": 68594,
+      "avg_rating": 3.27239990234375
+    },
+    {
+      "movie_id": 8644,
+      "title": "Catch Me If You Can",
+      "year": 2002.0,
+      "count": 68583,
+      "avg_rating": 3.7907352447509766
+    },
+    {
+      "movie_id": 3962,
+      "title": "Finding Nemo (Widescreen)",
+      "year": 2003.0,
+      "count": 68511,
+      "avg_rating": 4.416327476501465
+    },
+    {
+      "movie_id": 4996,
+      "title": "Gone in 60 Seconds",
+      "year": 2000.0,
+      "count": 67778,
+      "avg_rating": 3.459868907928467
+    },
+    {
+      "movie_id": 3624,
+      "title": "The Last Samurai",
+      "year": 2003.0,
+      "count": 67102,
+      "avg_rating": 3.9385414123535156
+    },
+    {
+      "movie_id": 2782,
+      "title": "Braveheart",
+      "year": 1995.0,
+      "count": 65982,
+      "avg_rating": 4.292716026306152
+    },
+    {
+      "movie_id": 2372,
+      "title": "The Bourne Supremacy",
+      "year": 2004.0,
+      "count": 65488,
+      "avg_rating": 3.907372236251831
+    },
+    {
+      "movie_id": 7234,
+      "title": "Men of Honor",
+      "year": 2000.0,
+      "count": 65353,
+      "avg_rating": 3.7934141159057617
+    },
+    {
+      "movie_id": 6386,
+      "title": "Sister Act",
+      "year": 1992.0,
+      "count": 64562,
+      "avg_rating": 3.2021002769470215
+    },
+    {
+      "movie_id": 1145,
+      "title": "The Wedding Planner",
+      "year": 2001.0,
+      "count": 64510,
+      "avg_rating": 3.1619129180908203
+    },
+    {
+      "movie_id": 3106,
+      "title": "Ghost",
+      "year": 1990.0,
+      "count": 64203,
+      "avg_rating": 3.64249324798584
+    },
+    {
+      "movie_id": 3427,
+      "title": "Men in Black II",
+      "year": 2002.0,
+      "count": 64116,
+      "avg_rating": 3.3179237842559814
+    },
+    {
+      "movie_id": 7617,
+      "title": "Dirty Dancing",
+      "year": 1987.0,
+      "count": 63762,
+      "avg_rating": 3.682506799697876
+    },
+    {
+      "movie_id": 4656,
+      "title": "Erin Brockovich",
+      "year": 2000.0,
+      "count": 63595,
+      "avg_rating": 3.810755491256714
+    },
+    {
+      "movie_id": 2862,
+      "title": "The Silence of the Lambs",
+      "year": 1991.0,
+      "count": 63562,
+      "avg_rating": 4.3154401779174805
+    },
+    {
+      "movie_id": 1220,
+      "title": "Man on Fire",
+      "year": 2004.0,
+      "count": 63501,
+      "avg_rating": 4.002252101898193
+    },
+    {
+      "movie_id": 6971,
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986.0,
+      "count": 62565,
+      "avg_rating": 4.073955059051514
+    },
+    {
+      "movie_id": 6134,
+      "title": "Collateral",
+      "year": 2004.0,
+      "count": 62541,
+      "avg_rating": 3.678738832473755
+    },
+    {
+      "movie_id": 5862,
+      "title": "Memento",
+      "year": 2000.0,
+      "count": 61603,
+      "avg_rating": 3.8576693534851074
+    },
+    {
+      "movie_id": 5926,
+      "title": "Fight Club",
+      "year": 1999.0,
+      "count": 59322,
+      "avg_rating": 4.027797222137451
+    },
+    {
+      "movie_id": 8904,
+      "title": "Good Will Hunting",
+      "year": 1997.0,
+      "count": 59163,
+      "avg_rating": 4.163818836212158
+    },
+    {
+      "movie_id": 5401,
+      "title": "Dodgeball: A True Underdog Story",
+      "year": 2004.0,
+      "count": 58646,
+      "avg_rating": 3.3731541633605957
+    },
+    {
+      "movie_id": 4640,
+      "title": "Rain Man",
+      "year": 1988.0,
+      "count": 58477,
+      "avg_rating": 4.120440483093262
+    },
+    {
+      "movie_id": 8387,
+      "title": "Minority Report",
+      "year": 2002.0,
+      "count": 58309,
+      "avg_rating": 3.589017152786255
+    },
+    {
+      "movie_id": 30,
+      "title": "Something's Gotta Give",
+      "year": 2003.0,
+      "count": 57026,
+      "avg_rating": 3.7538139820098877
+    },
+    {
+      "movie_id": 457,
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004.0,
+      "count": 56424,
+      "avg_rating": 3.874680995941162
+    },
+    {
+      "movie_id": 4123,
+      "title": "Patch Adams",
+      "year": 1998.0,
+      "count": 56357,
+      "avg_rating": 3.453004837036133
+    },
+    {
+      "movie_id": 1307,
+      "title": "S.W.A.T.",
+      "year": 2003.0,
+      "count": 56336,
+      "avg_rating": 3.302382230758667
+    },
+    {
+      "movie_id": 6692,
+      "title": "Entrapment",
+      "year": 1999.0,
+      "count": 56248,
+      "avg_rating": 3.366875171661377
+    },
+    {
+      "movie_id": 1542,
+      "title": "Sleepless in Seattle",
+      "year": 1993.0,
+      "count": 55889,
+      "avg_rating": 3.7498254776000977
+    },
+    {
+      "movie_id": 3151,
+      "title": "Napoleon Dynamite",
+      "year": 2004.0,
+      "count": 55434,
+      "avg_rating": 3.4005303382873535
+    },
+    {
+      "movie_id": 3282,
+      "title": "Sideways",
+      "year": 2004.0,
+      "count": 55311,
+      "avg_rating": 3.442732810974121
+    },
+    {
+      "movie_id": 5085,
+      "title": "Seabiscuit",
+      "year": 2003.0,
+      "count": 54714,
+      "avg_rating": 3.9716525077819824
+    },
+    {
+      "movie_id": 1798,
+      "title": "Lethal Weapon",
+      "year": 1987.0,
+      "count": 54713,
+      "avg_rating": 3.9660227298736572
+    }
+  ]
+}
